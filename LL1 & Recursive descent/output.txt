@@ -1,0 +1,1 @@
+<ID,abc>  <Int,123>  <ID,adf435>  <operator,+>  <operator,->  <operator,/>  <ID,gfgg>  <Int,894375>  <ID,yyyy>  <Invalid,y77%uu>  <Invalid,7,>  <Float,4398.3>  <Invalid,43.5.5>  <Invalid,43a.>  <Invalid,44.1a>  <Float,55.6>  
